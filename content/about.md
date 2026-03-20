@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About-me"
 subtitle: ""
 date: 2026-03-20T02:21:06Z
 lastmod: 2026-03-20T02:21:06Z
@@ -63,7 +63,9 @@ seo:
 <!--more-->
 
 
-# Hello, I'm Nsilou Balandamio.
+{{< style "text-align:Left; strong{color:#4FC1EA;}" >}}
+# Hello, I'm **Nsilou Balandamio**.
+{{< /style >}}
 
 I am passionate about how computers work and enjoy  
 programming in languages like C++. I love sharing my knowledge  

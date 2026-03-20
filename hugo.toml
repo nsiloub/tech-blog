@@ -589,10 +589,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Cookie consent config
   # Cookie 许可配置
   [params.cookieconsent]
-    enable = false
+    enable = true
     # text strings used for Cookie consent banner
     [params.cookieconsent.content]
-      message = ""
+      message = "We use cookies to enhance our user experience on this site. By continuing to use this site, you agree to our use of cookies"
       dismiss = ""
       link = ""
 
@@ -661,8 +661,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Permalinks config (https://gohugo.io/content-management/urls/#permalinks)
 # Permalinks 配置 (https://gohugo.io/content-management/urls/#permalinks)
 [permalinks]
-  posts = "/:year/:month/:slug/"
-#   posts = ":contentbasename"
+  # posts = "/:year/:month/:slug/"
+  posts = ":contentbasename"
 
 # Privacy config (https://gohugo.io/configuration/privacy/)
 # 隐私信息配置 (https://gohugo.io/configuration/privacy/)

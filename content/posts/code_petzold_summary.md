@@ -1,20 +1,20 @@
 ---
-title: "Hello_world"
-subtitle: ""
-date: 2026-03-20T04:36:05Z
-lastmod: 2026-03-20T04:36:05Z
-draft: false
+title: "Code: The Hidden Language of Computer Hardware and Software - Charles Petzold"
+subtitle: "From electronic circuits and Boolean logic to processors and programs: a technical foundation of computer hardware and software"
+date: 2026-03-22T17:00:30+01:00
+lastmod: 2026-03-22T17:00:30+01:00
+draft: true
 author: ""
 authorLink: ""
 description: ""
 license: ""
 images: []
 
-tags: ["Non-Tech", "hello"]
-categories: ["Chill", "Vibes"]
+tags: ["Books Summary", Computer Architecture,]
+categories: [Books Summary, Computer Architecture]
 
-featuredImage: "images/computer-languages-001.png"
-featuredImagePreview: "images/computer-languages-001.png"
+featuredImage: "articles/petzold/peztold-summary-007.svg"
+featuredImagePreview: "articles/petzold/peztold-summary-007.svg"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -29,7 +29,6 @@ rssFullText: false
 toc:
   enable: true
   auto: true
-  keepStatic: false
 code:
   copy: true
   maxShownLines: 50
@@ -56,23 +55,7 @@ library:
     # Or
     # someJS = "https://cdn.example.com/some.js"
 seo:
-  images: ["images/computer-languages-001.png"]
+  images: ["articles/petzold/peztold-summary-006"]
+  thumbnailUrl: "articles/petzold/peztold-summary-007.svg"
   # ...
 ---
-
-<!--more-->
-
-
-Hello world
-
-
-## mboté
-
-rdkrtlkretlrtkt  
-
-sfdskfdfddsff  
-
-## témbo  
-
-dsflfg  
-dslfdf

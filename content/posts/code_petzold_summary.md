@@ -11,7 +11,7 @@ license: ""
 images: []
 
 tags: ["Books Summary", Computer Architecture,]
-categories: [Books Summary, Computer Architecture]
+categories: [Books Summary, Computer Architecture, "code - Charles Petzold"]
 
 featuredImage: "articles/petzold/peztold-summary-009.svg"
 featuredImagePreview: "articles/petzold/peztold-summary-009.svg"

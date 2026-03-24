@@ -132,7 +132,7 @@ By now you can see the pattern in these examples:
 4.  We attach or bind each alphabetic letter to a particular sequence.
 
 
-![recap-steps](articles/petzold/diagrams/recap-steps-002.svg)
+![recap-steps](articles/petzold/diagrams/recap-steps-010.png)
 
 
 You can also see that all those "situational languages" use only two-state characters: a dot or a dash for Morse code; a flat or a raised circle for Braille, etc.

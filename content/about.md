@@ -8,7 +8,7 @@ author: "NSILOU BALANDAMIO"
 authorLink: ""
 description: ""
 license: ""
-images: ["images/me-profile-squared-001.png"]
+images: ["me-profile-squared-001.png"]
 
 tags: []
 categories: []
@@ -56,7 +56,7 @@ library:
     # Or
     # someJS = "https://cdn.example.com/some.js"
 seo:
-  images: ["images/me-profile-squared-001.png"]
+  images: ["me-profile-squared-001.png"]
   # ...
 ---
 
@@ -71,7 +71,7 @@ I am passionate about how computers work and enjoy
 programming in languages like C++. I love sharing my knowledge  
 and experiences, whether through this blog, my YouTube  
 channel, or in person.
-![Nsilou Balandamio's picture containing some information](images/hero-image-code-001.png)  
+![Nsilou Balandamio's picture containing some information](hero-image-code-001.png)  
 
 ## Connect with Me  
 

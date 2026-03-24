@@ -109,7 +109,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.header.title]
       # URL of the LOGO
       # LOGO 的 URL
-      logo = "images/logos/nb-square-dark-001.svg"
+      logo = "nb-square-dark-001.svg"
       # title name
       name = "Nsilou Bal"
       # you can add extra information before the name (HTML format is supported), such as icons

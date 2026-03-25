@@ -82,16 +82,21 @@ The first three chapters introduce the idea of what I call ***"situational langu
 The author starts with an example of two teenagers in separate houses whose rooms face one another. But they can't talk at night, and they only have flashlights. How will they communicate? Well, they could swing and wave their flashlights to write words. But soon they discover that the idea of drawing alphabetic letters in thin air doesn't seem very appealing or efficient.  
 A more ingenious idea would be to use Morse code, where they only have combinations of short and long blinks, and then predefine some sequences and patterns and attach them to the known alphabetic letters.
 
-| A | •− | J | •−−− | S | ••• |
-|---:|:---|---:|:----|---:|:---|
-| B | −••• | K | −•− | T | − |
-| C | −•−• | L | •−•• | U | ••− |
-| D | −•• | M | −− | V | •••− |
-| E | • | N | −• | W | •−− |
-| F | ••−• | O | −−− | X | −••− |
-| G | −−• | P | •−−• | Y | −•−− |
-| H | •••• | Q | −−•− | Z | −−•• |
-| I | •• | R | •−• |   |    |
+| A | •− | B | −••• |
+|---:|:---|---:|:---|
+| C | −•−• | D | −•• |
+| E | • | F | ••−• |
+| G | −−• | H | •••• |
+| I | •• | J | •−−− |
+| K | −•− | L | •−•• |
+| M | −− | N | −• |
+| O | −−− | P | •−−• |
+| Q | −−•− | R | •−• |
+| S | ••• | T | − |
+| U | ••− | V | •••− |
+| W | •−− | X | −••− |
+| Y | −•−− | Z | −−•• |
+
 
 
 
@@ -108,17 +113,25 @@ A better idea would be to do what Braille did: devise a system that uses only tw
 
 ![Flat and embossed circles](articles/petzold/flat-embossed-000.svg)
 
-| a | b | c | d | e | f | g | h | i | j |
-|---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ●○<br>○○<br>○○ | ●○<br>●○<br>○○ | ●●<br>○○<br>○○ | ●●<br>○●<br>○○ | ●○<br>○●<br>○○ | ●●<br>●○<br>○○ | ●●<br>●●<br>○○ | ●○<br>●●<br>○○ | ○●<br>●○<br>○○ | ○●<br>●●<br>○○ |
-
-| k | l | m | n | o | p | q | r | s | t |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ●○<br>○○<br>●○ | ●○<br>●○<br>●○ | ●●<br>○○<br>●○ | ●●<br>○●<br>●○ | ●○<br>○●<br>●○ | ●●<br>●○<br>●○ | ●●<br>●●<br>●○ | ●○<br>●●<br>●○ | ○●<br>●○<br>●○ | ○●<br>●●<br>●○ |
-
-| u | v | w | x | y | z |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| ●○<br>○○<br>●● | ●○<br>●○<br>●● | ○●<br>●●<br>○○ | ●●<br>○○<br>●● | ●●<br>○●<br>●● | ●○<br>○●<br>●● |
+| a | b | c |
+|---:|:---:|:---:|
+| ●○<br>○○<br>○○ | ●○<br>●○<br>○○ | ●●<br>○○<br>○○ |
+| d | e | f |
+| ●●<br>○●<br>○○ | ●○<br>○●<br>○○ | ●●<br>●○<br>○○ |
+| g | h | i |
+| ●●<br>●●<br>○○ | ●○<br>●●<br>○○ | ○●<br>●○<br>○○ |
+| j | k | l |
+| ○●<br>●●<br>○○ | ●○<br>○○<br>●○ | ●○<br>●○<br>●○ |
+| m | n | o |
+| ●●<br>○○<br>●○ | ●●<br>○●<br>●○ | ●○<br>○●<br>●○ |
+| p | q | r |
+| ●●<br>●○<br>●○ | ●●<br>●●<br>●○ | ●○<br>●●<br>●○ |
+| s | t | u |
+| ○●<br>●○<br>●○ | ○●<br>●●<br>●○ | ●○<br>○○<br>●● |
+| v | w | x |
+| ●○<br>●○<br>●● | ○●<br>●●<br>○○ | ●●<br>○○<br>●● |
+| y | z |  |
+| ●●<br>○●<br>●● | ●○<br>○●<br>●● |  |
 
 
 

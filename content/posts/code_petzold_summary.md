@@ -65,7 +65,7 @@ From electronic circuits and Boolean logic to processors and programs: a technic
 <!--more-->
 
 ## Chapters 1 to 3
-{{< mermaid >}}
+```mermaid
     flowchart TB
         A[Situation 1: Flashlights] --> |Chapter 1|D([Morse Code])
         B[Code and Combinations] --> |Chapter 2|D([Morse Code])e1@==> F((Situational Languages))
@@ -73,7 +73,7 @@ From electronic circuits and Boolean logic to processors and programs: a technic
         e1@{ animate: true }
         e2@{ animate: true }
         e3@{ animate: true }
-{{< /mermaid >}}
+```
 
  ### Situational languages
 
